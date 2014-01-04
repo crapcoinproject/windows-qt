@@ -1,4 +1,4 @@
 windows-qt
 ==========
 
-Windows binary.
+Windows binary. Mine it.
