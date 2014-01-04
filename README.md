@@ -1,0 +1,4 @@
+windows-qt
+==========
+
+Windows binary.
